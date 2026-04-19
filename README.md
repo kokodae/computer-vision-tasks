@@ -4,7 +4,7 @@
 
 Реализация операторов Робертса, Превитта и Собеля для выделения границ на изображении.
 
-**Файл:** task1.py
+**Файл:** [task1.py](https://github.com/kokodae/computer-vision-tasks/blob/main/task1.py)
 
 **Результат:** result1.PNG
 
