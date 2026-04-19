@@ -6,7 +6,7 @@
 
 **Файл:** [task1.py](https://github.com/kokodae/computer-vision-tasks/blob/main/task1.py)
 
-![Результат](images/result1.png)
+![Результат](result1.png)
 
 **Зависимости:** opencv-python, numpy, matplotlib
 
@@ -18,7 +18,7 @@ CNN для классификации датасета Fruits-360 (100x100, ~131
 
 **Файл:** [task2.PY](https://github.com/kokodae/computer-vision-tasks/blob/main/task2.py)
 
-![Результат](images/result2.png)
+![Результат](result2.png)
 
 ---
 
@@ -28,7 +28,7 @@ CNN для датасета CIFAR-10 (32x32, 10 классов: самолет, 
 
 **Файл:** [task3.PY](https://github.com/kokodae/computer-vision-tasks/blob/main/task3.py)
 
-![Результат](images/result3.png)
+![Результат](result3.png)
 
 ---
 
